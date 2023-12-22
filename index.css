@@ -49,6 +49,10 @@ p a img {
     /* width: 20%; */
     height: auto;
 }
+
+p{
+color: #294622;
+}
     
     .contact-info{
         display: flex;
