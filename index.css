@@ -56,7 +56,13 @@ p a img {
         flex-direction: row;
         justify-content: center;
     }
+h1{
+color: #777614;
+}
 
+h3{
+color: #77bb54;
+}
 
 .contact-info p{
     width: 75px;
